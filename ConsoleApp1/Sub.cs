@@ -12,5 +12,9 @@ namespace ConsoleApp1
         {
             return x - y;
         }
+        public int Subtract2(int x, int y)
+        {
+            return x - y;
+        }
     }
 }
